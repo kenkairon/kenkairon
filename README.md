@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hola Mi Nombre es Carlos, soy un programador autodidacta y me apasiona el mundo de la programación. 
 <!--
 **kenkairon/kenkairon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
