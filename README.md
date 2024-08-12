@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando **en un emprendimiento personal**
+- 🔭 Actualmente estoy trabajando **en un Emprendimiento Personal**
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Full Stack en Python**
 
@@ -15,7 +15,7 @@
 
 - 📝 Regularmente subo Aprendidaje en [https://github.com/kenkairon/](https://github.com/kenkairon/)
 
-- 💬 Pregúntame sobre **Git hub,Html5,CSS3,Javascript,Bootstrap 5**
+- 💬 Pregúntame sobre **Git Hub,Html5,CSS3,Javascript,Bootstrap 5**
 
 - 📫 Cómo contactarme: **ingeinfo2006@gmail.com**
 
