@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋,soy Carlos Vasquez</h1>
-<h3 align="center">Un Apasionado de la programación Frontend y Backend</h3>
+<h1 align="center">Hola 👋,soy Carlos Vasquez.</h1>
+<h3 align="center">Un Apasionado de la programación Frontend y Backend.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
