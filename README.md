@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Full Stack en Python**
 
-- 👯 Me gustaría colaborar en **Proyectos de Innovación Tecnologica**
+- 👯 Me gustaría colaborar en **Proyectos de Innovación Tecnológica**
 
 - 🤝 Estoy buscando ayuda con **Proyectos de Inteligencia Artificial**
 
