@@ -14,7 +14,6 @@
 - 🤝 Abierto a trabajar en **Inteligencia Artificial**  
 - 💬 Especialidades: **Git, GitHub, HTML5, CSS3, JavaScript, Bootstrap 5, Django, Flask, Python**  
 - ⚡ Intereses: *Fútbol ⚽, Rock 🎸, Videojuegos 🎮*  
-- 📫 Contacto: **ingeinfo2006@gmail.com**  
 - 👨‍💻 Portafolio & CV: [Mi Portafolio](https://kenkairon.github.io/curriculum_portafolio/)  
 
 ---
