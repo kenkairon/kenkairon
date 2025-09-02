@@ -11,7 +11,6 @@
 - 👨‍💻 Todos mis proyectos: [GitHub/kenkairon](https://github.com/kenkairon/)  
 - 📝 Comparto aprendizajes en: [GitHub/kenkairon](https://github.com/kenkairon/)  
 - 💬 Pregúntame sobre **GitHub, HTML5, CSS3, JavaScript, Bootstrap 5**  
-- 📫 Contáctame en: **ingeinfo2006@gmail.com**  
 - 📄 Experiencia: [Currículum & Portafolio](https://kenkairon.github.io/curriculum_portafolio/)  
 - ⚡ Dato curioso: *Me encanta el fútbol, el rock 🎸 y los videojuegos 🎮*  
 
