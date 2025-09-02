@@ -12,7 +12,7 @@
 - 🌱 Aprendiendo **Desarrollo Full Stack en Python**  
 - 👯 Colaborando en **proyectos de innovación tecnológica**  
 - 🤝 Abierto a trabajar en **Inteligencia Artificial**  
-- 💬 Especialidades: **GitHub, HTML5, CSS3, JavaScript, Bootstrap 5, Django, Flask**  
+- 💬 Especialidades: **Git, GitHub, HTML5, CSS3, JavaScript, Bootstrap 5, Django, Flask, Python**  
 - ⚡ Intereses: *Fútbol ⚽, Rock 🎸, Videojuegos 🎮*  
 - 📫 Contacto: **ingeinfo2006@gmail.com**  
 - 👨‍💻 Portafolio & CV: [Mi Portafolio](https://kenkairon.github.io/curriculum_portafolio/)  
@@ -22,24 +22,24 @@
 ### 🌟 Proyectos Destacados
 | Proyecto | Descripción | Tecnologías |
 |----------|------------|-------------|
-| [Generador de CV](https://kenkairon.github.io/curriculum_portafolio/) | Genera CV automáticamente con diseño profesional | HTML5, CSS3, JavaScript |
-| [Clima en Tiempo Real](https://github.com/kenkairon/weather-app) | App para consultar el clima de cualquier ciudad usando API | Python, Flask, API |
-| [Sistema de Gestión](https://github.com/kenkairon/python-crud) | CRUD para manejo de datos con interfaz de consola | Python |
+| [Generador de CV](https://github.com/kenkairon/Portafolio) | Generador de CV profesional y automático | HTML5, CSS3, JavaScript, Django, Python, SQLite |
+| [Búsqueda de Especialistas](https://github.com/kenkairon/home_especialista_node) | Plataforma para búsqueda de especialistas | Node.js, JavaScript, PostgreSQL, Bootstrap 5 |
+| [Sistema de Gestión](https://github.com/kenkairon/CuadroMandoIntegral) | CRUD para gestión de datos con panel de control | HTML5, JavaScript, Bootstrap 5 |
 
 ---
 
 ### 🛠️ Tecnologías & Herramientas
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
@@ -66,4 +66,5 @@
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
 </a>
 </p>
+
 
