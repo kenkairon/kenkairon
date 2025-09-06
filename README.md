@@ -12,7 +12,7 @@
 - 🌱 Aprendiendo **Desarrollo Full Stack en Python**  
 - 👯 Colaborando en **proyectos de innovación tecnológica**  
 - 🤝 Abierto a trabajar en **Inteligencia Artificial**  
-- 💬 Especialidades: **Git, GitHub, HTML5, CSS3, JavaScript, Bootstrap 5, Django, Flask, Python**  
+- 💬 Especialidades: **Git, GitHub, HTML5, CSS3, JavaScript, Bootstrap 5, Django, Flask, Python,Testing Unitario con JUnit y Mockito**  
 - ⚡ Intereses: *Fútbol ⚽, Rock 🎸, Videojuegos 🎮*  
 - 👨‍💻 Portafolio & CV: [Mi Portafolio](https://kenkairon.github.io/curriculum_portafolio/)  
 
